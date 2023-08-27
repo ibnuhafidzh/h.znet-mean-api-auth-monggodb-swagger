@@ -1,0 +1,26 @@
+{
+  "name": "h.znet-mean-api-auth-monggodb-swagger",
+  "version": "0.0.1",
+  "description": "mean integration h.znet by izul aka ibnu hafidzh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "",
+    "keywords": [
+      "node.js",
+      "express",
+      "jwt",
+      "login",
+      "registration",
+      "authentication",
+      "authorization",
+      "mongodb",
+      "mongoose"
+    ]
+  },
+  "author": "ibnu hafidzh",
+  "license": "ISC"
+}
