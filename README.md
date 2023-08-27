@@ -2,7 +2,7 @@
 
 > A simple restful NodeJS CRUD, with expressJS, mongoDB and Swaggers Docs design and developed by ibnu hafidzh / if you have some trouble kindly email me on ibnu.hz@outlook.com
 
-This project act as a API service for integrating the monggo db on any Angular / react / nodejs App (But can be modified for any CRUD operations by modifying model and controller files).This project also use swaggers npm packages for generating swagger docs at
+This project act as a API service for integrating the monggo db on any Angular / react / nodejs App (But can be modified for any CRUD operations by modifying model and controller files). This project also use swaggers npm packages for generating swagger docs at
 
 ![](swagger.png)
 
@@ -35,6 +35,8 @@ For Getting items from Db
 For Updating an item in Db
 
 For Deleting an item in Db
+
+For Authentication and authorization using db and jwt
 
 ## Meta
 
