@@ -38,9 +38,7 @@ For Deleting an item in Db
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/ikhlaq201) – ikhlaq201@gmail.com
-
-[https://github.com/ikhlaq1](https://github.com/ikhlaq1/)
+[https://github.com/ibnuhafidzh](https://github.com/ibnuhafidzh)
 
 ## Contributing
 
