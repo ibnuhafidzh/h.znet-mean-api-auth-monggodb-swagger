@@ -1,6 +1,6 @@
 # CRUD using Node Express Mongo
 
-> A simple restful NodeJS CRUD, with expressJS, mongoDB and Swaggers Docs design and developed by ibnu hafidzh / if you have some trouble kindly email me on ibnu.hz@outlook.com
+> A simple restful NodeJS CRUD, with expressJS, mongoDB and Swaggers Docs design and developed by ibnu hafidzh, visit my website at https://awhz.net
 
 This project act as a API service for integrating the monggo db on any Angular / react / nodejs App (But can be modified for any CRUD operations by modifying model and controller files). This project also use swaggers npm packages for generating swagger docs at
 
